@@ -1,6 +1,6 @@
 ![Project Management and Development ](https://github.com/S-Vilka/S-Vilka/blob/main/github_header.jpg)
 
-<h1 align="center">👋 Hello, I'm Sergei Vilka</h1>
+# Sergei Vilka
 
 ## Project Management and Software Development 
 
@@ -12,24 +12,28 @@ I'm passionate about combining technical expertise with strong organisational sk
 
 - 💻 My technical toolkit includes **React.js**, **Node.js**, **Java**, **MongoDB**, **Python**, **Git**.
 
-- 🌱 At the moment, I'm studying Java and Project Management. Click [here](https://github.com/S-Vilka/Luku) to see the latest project.
+- 🌱 At the moment, I'm studying **Java** and **Project Management**. Click [here](https://github.com/S-Vilka/Luku) to see the latest project.
 
 ### Connect with me: 
 [<img src='https://github.com/S-Vilka/S-Vilka/blob/main/LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergei-vilka//)  
 
 
-### Projects 
+## Projects: 
 
 [Luku](https://github.com/S-Vilka/Luku)
+
 Library book reservation system. This work is a part of Software Engineering course. 
 
 [University Cafeteria Simulator](https://github.com/MahnoorFatima02/Cafeteria_Simulator)
+
 A Java-based tool to simulate and analyse cafeteria efficiency, featuring live animations, JavaFX charts, and dynamic management of service points.
 
 [GearShare](https://github.com/S-Vilka/GearShare)
+
 Full-Stack Web Application for gear exchange between neighbours. 
 
 [EuroTrip](https://github.com/S-Vilka/EuroTrip)
+
 Python based game. User should fly between cities in Europe and collect stamps to win the game. 
 
 
