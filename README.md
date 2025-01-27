@@ -18,7 +18,8 @@
 - 💻 My technical toolkit includes **React.js**, **Node.js**, **Java**, **MongoDB**, **Python**, **Git**.
 
 
-- 🌱 At the moment, I'm studying **Java** and **Project Management**. Click [here](https://github.com/S-Vilka/Luku) to see the latest project.
+- 🌱 At the moment, I'm studying **Java** and **Project Management**. 
+Click [here](https://github.com/S-Vilka/Luku) to see the latest project.
 
 
 <h3 align="left">Connect with me:</h3>
