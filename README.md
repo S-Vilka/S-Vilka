@@ -1,4 +1,4 @@
-![Project Management and Development ](https://github.com/S-Vilka/S-Vilka/blob/main/github_header.jpg)
+![Project Management and Development](https://github.com/S-Vilka/S-Vilka/blob/main/github_header.jpg)
 
 <h1>Sergei Vilka</h1>
 <h2>Project Management & Software Development</h2>
@@ -21,8 +21,7 @@
 </div>
 
 ### Connect with me: 
-[<img src='https://github.com/S-Vilka/S-Vilka/blob/main/LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergei-vilka//)  
-
+[<img src='https://github.com/S-Vilka/S-Vilka/blob/main/LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sergei-vilka/)  
 
 ## Projects: 
 
@@ -40,21 +39,4 @@
 
 [EuroTrip](https://github.com/S-Vilka/EuroTrip)
 
-- Python based game. User should fly between cities in Europe and collect stamps to win the game. 
-
-
-
-<!--
-**S-Vilka/S-Vilka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python-based game. User should fly between cities in Europe and collect stamps to win the game. 
