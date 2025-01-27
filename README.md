@@ -1,13 +1,14 @@
-<img src="https://github.com/S-Vilka/S-Vilka/blob/main/gitbanner3.png" alt="logo" width="1000" height="250">
+<img src="https://github.com/S-Vilka/S-Vilka/blob/main/github_header.jpg" alt="logo" width="1000" height="250">
 
-<h1 align="center">Hi 👋, I'm Sergei Vilka</h1>
+<h1 align="center">Sergei Vilka</h1>
+<h2>Project Management & Software Development</h2>
 <p align="center">
   I'm passionate about combining technical expertise with strong organisational skills to deliver impactful projects. With hands-on experience in Agile and Scrum methodologies, I’ve served as a Scrum Master for multiple university projects, fostering collaboration and ensuring smooth progress.
 </p>
 
 <img align="right" alt="coding" width="380" src="https://github.com/S-Vilka/S-Vilka/blob/main/4SdB78W.gif">
 
-- 📚 I’m currently a second-year student at **Metropolia University of Applied Sciences.**
+- 📚 Second-year student at **Metropolia University of Applied Sciences.**
   
 - 🔭 Currently seeking summer trainee opportunities to grow as a **project manager** or **developer** while contributing to meaningful projects. Let’s connect and build something great together!
 
