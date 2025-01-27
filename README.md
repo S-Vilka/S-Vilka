@@ -2,9 +2,9 @@
 
 <h1>Sergei Vilka</h1>
 <h2>Project Management & Software Development</h2>
-<h5>
+<h4>
   I'm passionate about combining technical expertise with strong organisational skills to deliver impactful projects. With hands-on experience in Agile and Scrum methodologies, I’ve served as a Scrum Master for multiple university projects, fostering collaboration and ensuring smooth progress.
-</h5>
+</h4>
 
 <img align="right" alt="coding" width="220" src="https://github.com/S-Vilka/S-Vilka/blob/main/1674617947228.gif" style="margin: 0 0 50px 50px;">
 
