@@ -1,6 +1,7 @@
 ### Hi there 👋, Sergei Vilka
 #### Project Management and Software Development 
-![Project Management and Development ]([https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://github.com/S-Vilka/S-Vilka/blob/main/photo-1519389950473-47ba0277781c%20copy.jpg))
+![Project Management and Development ](https://github.com/S-Vilka/S-Vilka/blob/main/photo-1519389950473-47ba0277781c%20copy.jpg)
+
 
 I'm Sergei, a second-year ICT student @MetropoliaUAS. 
 
@@ -15,6 +16,8 @@ https://github.com/S-Vilka/Luku
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/S-Vilka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergei-vilka//)  
+
+
 
 
 <!--
