@@ -2,11 +2,11 @@
 
 # Sergei Vilka
 
-## Project Management and Software Development 
+## Project Management & Software Development 
 
 I'm passionate about combining technical expertise with strong organisational skills to deliver impactful projects. With hands-on experience in Agile and Scrum methodologies, I’ve served as a Scrum Master for multiple university projects, fostering collaboration and ensuring smooth progress.
 
-- 📚 I am a second-year student at **Metropolia University of Applied Sciences.**
+- 📚 Second-year student at **Metropolia University of Applied Sciences.**
 
 - 🔭 Currently seeking summer trainee opportunities to grow as a **project manager** or **developer** while contributing to meaningful projects. Let’s connect and build something great together!
 
@@ -21,25 +21,21 @@ I'm passionate about combining technical expertise with strong organisational sk
 ## Projects: 
 
 [Luku](https://github.com/S-Vilka/Luku)
-
 Library book reservation system. This work is a part of Software Engineering course. 
 
 [University Cafeteria Simulator](https://github.com/MahnoorFatima02/Cafeteria_Simulator)
-
 A Java-based tool to simulate and analyse cafeteria efficiency, featuring live animations, JavaFX charts, and dynamic management of service points.
 
 [GearShare](https://github.com/S-Vilka/GearShare)
-
 Full-Stack Web Application for gear exchange between neighbours. 
 
 [EuroTrip](https://github.com/S-Vilka/EuroTrip)
-
 Python based game. User should fly between cities in Europe and collect stamps to win the game. 
 
 
-### Profile Statistics 
+## Profile Statistics 
 
-
+[![Sergei's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Vilka)](https://github.com/S-Vilka/github-readme-stats)
 
 <!--
 **S-Vilka/S-Vilka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
