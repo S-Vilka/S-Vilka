@@ -1,12 +1,13 @@
 ![Project Management and Development ](https://github.com/S-Vilka/S-Vilka/blob/main/github_header.jpg)
 
-<div style="display: flex; align-items: flex-start;">
+<h1>Sergei Vilka</h1>
+<h2>Project Management & Software Development</h2>
+<p>
+  I'm passionate about combining technical expertise with strong organisational skills to deliver impactful projects. With hands-on experience in Agile and Scrum methodologies, I’ve served as a Scrum Master for multiple university projects, fostering collaboration and ensuring smooth progress.
+</p>
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
-    <h1>Sergei Vilka</h1>
-    <h2>Project Management & Software Development</h2>
-    <p>
-      I'm passionate about combining technical expertise with strong organisational skills to deliver impactful projects. With hands-on experience in Agile and Scrum methodologies, I’ve served as a Scrum Master for multiple university projects, fostering collaboration and ensuring smooth progress.
-    </p>
     <ul>
       <li>📚 Second-year student at <strong>Metropolia University of Applied Sciences.</strong></li>
       <li>🔭 Currently seeking summer trainee opportunities to grow as a <strong>project manager</strong> or <strong>developer</strong> while contributing to meaningful projects. Let’s connect and build something great together!</li>
@@ -14,8 +15,8 @@
       <li>🌱 At the moment, I'm studying <strong>Java</strong> and <strong>Project Management</strong>. Click <a href="https://github.com/S-Vilka/Luku">here</a> to see the latest project.</li>
     </ul>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="https://github.com/S-Vilka/S-Vilka/blob/main/4SdB78W.gif" alt="Cat-Image" style="width: 300px; height: auto; border-radius: 10px;">
+  <div>
+    <img src="https://github.com/S-Vilka/S-Vilka/blob/main/4SdB78W.gif" alt="Cat-Image" style="width: 250px; height: auto; border-radius: 10px;">
   </div>
 </div>
 
