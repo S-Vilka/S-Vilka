@@ -7,7 +7,7 @@
 </p>
 <p></p>
 <p></p>
-<img align="right" alt="coding" width="300" src="https://github.com/S-Vilka/S-Vilka/blob/main/1674617947228.gif" style="margin: 0 0 10px 30px;">
+<img align="right" alt="coding" width="300" src="https://github.com/S-Vilka/S-Vilka/blob/main/1674617947228.gif" style="margin: 0 0 50px 50px;">
 
 - 📚 Second-year student at **Metropolia University of Applied Sciences.**
   
