@@ -1,4 +1,4 @@
-![Project Management and Development ](https://github.com/S-Vilka/S-Vilka/blob/main/photo-1519389950473-47ba0277781c%20copy.jpg)
+![Project Management and Development ](https://github.com/S-Vilka/S-Vilka/blob/main/github_header.jpg)
 
 # Sergei Vilka
 ## Project Management and Software Development 
