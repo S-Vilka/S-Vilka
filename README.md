@@ -53,7 +53,7 @@
 <h3 align="left">Projects:</h3>
 
 [Luku](https://github.com/S-Vilka/Luku):
-- Library book reservation system. This work is a part of Software Engineering course.
+Library book reservation system. This work is a part of Software Engineering course.
 
 [University Cafeteria Simulator](https://github.com/MahnoorFatima02/Cafeteria_Simulator): 
 Java-based tool to simulate and analyse cafeteria efficiency, featuring live animations, JavaFX charts, and dynamic management of service points.
