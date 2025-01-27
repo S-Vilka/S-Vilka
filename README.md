@@ -1,6 +1,7 @@
 ![Project Management and Development ](https://github.com/S-Vilka/S-Vilka/blob/main/github_header.jpg)
 
-<h1 align="center">👋 Hello, I am Sergei Vilka</h1>
+<h1 align="center">👋 Hello, I'm Sergei Vilka</h1>
+
 ## Project Management and Software Development 
 
 I'm passionate about combining technical expertise with strong organisational skills to deliver impactful projects. With hands-on experience in Agile and Scrum methodologies, I’ve served as a Scrum Master for multiple university projects, fostering collaboration and ensuring smooth progress.
