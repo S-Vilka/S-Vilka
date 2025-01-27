@@ -15,7 +15,7 @@
     </ul>
   </div>
   <div style="margin-left: 20px;">
-    <img src="https://github.com/S-Vilka/S-Vilka/blob/main/4SdB78W.gif" alt="Cat-Image" style="width: 250px; height: auto; border-radius: 10px;">
+    <img src="https://github.com/S-Vilka/S-Vilka/blob/main/4SdB78W.gif" alt="Cat-Image" style="width: 300px; height: auto; border-radius: 10px;">
   </div>
 </div>
 
