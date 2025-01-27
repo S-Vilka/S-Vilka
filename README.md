@@ -6,13 +6,19 @@
 
 I'm passionate about combining technical expertise with strong organisational skills to deliver impactful projects. With hands-on experience in Agile and Scrum methodologies, I’ve served as a Scrum Master for multiple university projects, fostering collaboration and ensuring smooth progress.
 
-- 📚 Second-year student at **Metropolia University of Applied Sciences.**
+https://github.com/S-Vilka/S-Vilka/blob/main/4SdB78W.gif
 
-- 🔭 Currently seeking summer trainee opportunities to grow as a **project manager** or **developer** while contributing to meaningful projects. Let’s connect and build something great together!
-
-- 💻 My technical toolkit includes **React.js**, **Node.js**, **Java**, **MongoDB**, **Python**, **Git**.
-
-- 🌱 At the moment, I'm studying **Java** and **Project Management**. Click [here](https://github.com/S-Vilka/Luku) to see the latest project.
+<div style="display: flex; align-items: center;">
+  <div>
+    <ul>
+      <li>📚 Second-year student at <strong>Metropolia University of Applied Sciences.</strong></li>
+      <li>🔭 Currently seeking summer trainee opportunities to grow as a <strong>project manager</strong> or <strong>developer</strong> while contributing to meaningful projects. Let’s connect and build something great together!</li>
+      <li>💻 My technical toolkit includes <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Java</strong>, <strong>MongoDB</strong>, <strong>Python</strong>, <strong>Git</strong>.</li>
+      <li>🌱 At the moment, I'm studying <strong>Java</strong> and <strong>Project Management</strong>. Click <a href="https://github.com/S-Vilka/Luku">here</a> to see the latest project.</li>
+    </ul>
+  </div>
+  <img src="https://github.com/S-Vilka/S-Vilka/blob/main/4SdB78W.gif" alt="Cat-Image" style="margin-left: 20px; width: 200px; height: auto;">
+</div>
 
 ### Connect with me: 
 [<img src='https://github.com/S-Vilka/S-Vilka/blob/main/LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergei-vilka//)  
@@ -21,21 +27,23 @@ I'm passionate about combining technical expertise with strong organisational sk
 ## Projects: 
 
 [Luku](https://github.com/S-Vilka/Luku)
-Library book reservation system. This work is a part of Software Engineering course. 
+
+- Library book reservation system. This work is a part of Software Engineering course. 
 
 [University Cafeteria Simulator](https://github.com/MahnoorFatima02/Cafeteria_Simulator)
-A Java-based tool to simulate and analyse cafeteria efficiency, featuring live animations, JavaFX charts, and dynamic management of service points.
+
+- Java-based tool to simulate and analyse cafeteria efficiency, featuring live animations, JavaFX charts, and dynamic management of service points.
 
 [GearShare](https://github.com/S-Vilka/GearShare)
-Full-Stack Web Application for gear exchange between neighbours. 
+
+- Full-Stack Web Application for gear exchange between neighbours. 
 
 [EuroTrip](https://github.com/S-Vilka/EuroTrip)
-Python based game. User should fly between cities in Europe and collect stamps to win the game. 
+
+- Python based game. User should fly between cities in Europe and collect stamps to win the game. 
 
 
-## Profile Statistics 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Vilka)](https://github.com/S-Vilka/github-readme-stats)
 <!--
 **S-Vilka/S-Vilka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
