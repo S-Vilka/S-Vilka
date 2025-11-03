@@ -8,16 +8,14 @@
 
 <img align="right" alt="coding" width="220" src="https://github.com/S-Vilka/S-Vilka/blob/main/1674617947228.gif" style="margin: 0 0 50px 50px;">
 
-- 📚 Second-year student at **Metropolia University of Applied Sciences.**
+- 📚 Third-year student at **Metropolia University of Applied Sciences.**
 
   
-- 🔭 Currently seeking summer trainee opportunities to grow as a **project manager** or **developer** while contributing to meaningful projects. Let’s connect and build something great together!
+
+- 💻 My technical toolkit includes **React.js**, **Node.js**, **Java**, **MongoDB**, **Python**, **Git**, **Jenkins**, **Kotlin**, **Swift**.
 
 
-- 💻 My technical toolkit includes **React.js**, **Node.js**, **Java**, **MongoDB**, **Python**, **Git**.
-
-
-- 🌱 At the moment, I'm studying **Java** and **Project Management**. 
+- 🌱 At the moment, I'm studying **Kotlin** , **Swift** and **Project Management**. 
 
 
 <h3 align="left">Connect with me:</h3>
